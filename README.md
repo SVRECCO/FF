@@ -1,7 +1,7 @@
 # FF
 
 <p align="center">
-  <img src="https://techstarwebsolutions.com/images/FF.png" alt="FF Logo" width="200"/>
+  <img src="https://techstarwebsolutions.com/images/FF.png" alt="FF Logo" width="600"/>
 </p>
 
 <p align="center">
