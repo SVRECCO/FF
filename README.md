@@ -2,7 +2,7 @@
 FF
 </h1>
 <p align="center">
-  <img src="https://techstarwebsolutions.com/images/FF.png" alt="FF Logo" width="600"/>
+  <img src="https://techstarwebsolutions.com/images/FF.png" alt="FF Logo" width="800"/>
 </p>
 
 <p align="center">
