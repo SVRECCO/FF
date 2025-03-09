@@ -26,10 +26,6 @@ FF
   </a>
 </p>
 
-<p align="center">
-  <img src="docs/screenshots/preview.png" alt="FF Preview" width="600"/>
-</p>
-
 ## About FF
 
 FF is a visually appealing, feature-rich system information tool for Windows, inspired by [neofetch](https://github.com/dylanaraps/neofetch). Display your system specs with style in your terminal.
