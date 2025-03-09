@@ -1,7 +1,8 @@
-# FF
-
+<h1 align="center">
+FF
+</h1>
 <p align="center">
-  <img src="https://techstarwebsolutions.com/images/FF.png" alt="FF Logo" width="200"/>
+  <img src="https://techstarwebsolutions.com/images/FF.png" alt="FF Logo" width="800"/>
 </p>
 
 <p align="center">
@@ -21,12 +22,8 @@
     <img src="https://img.shields.io/github/issues/SVRECCO/FF?style=flat-square" alt="Issues">
   </a>
   <a href="https://dotnet.microsoft.com/">
-    <img src="https://img.shields.io/badge/.NET-%3E%3D6.0-blueviolet?style=flat-square" alt=".NET Version">
+    <img src="https://img.shields.io/badge/.NET-%3E%3D9.0-blueviolet?style=flat-square" alt=".NET Version">
   </a>
-</p>
-
-<p align="center">
-  <img src="docs/screenshots/preview.png" alt="FF Preview" width="600"/>
 </p>
 
 ## About FF
@@ -52,7 +49,7 @@ FF is a visually appealing, feature-rich system information tool for Windows, in
 
 ### Prerequisites
 
-- .NET 6.0 SDK or newer
+- .NET 9.0 SDK or newer
 - Windows 10/11
 
 ### Option 1: Download Release
@@ -72,7 +69,7 @@ cd FF
 dotnet build -c Release
 
 # Run the application
-.\bin\Release\net6.0\FF.exe
+.\bin\Release\net9.0\FF.exe
 ```
 
 ## Custom Image Setup
