@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/github/issues/SVRECCO/FF?style=flat-square" alt="Issues">
   </a>
   <a href="https://dotnet.microsoft.com/">
-    <img src="https://img.shields.io/badge/.NET-%3E%3D6.0-blueviolet?style=flat-square" alt=".NET Version">
+    <img src="https://img.shields.io/badge/.NET-%3E%3D9.0-blueviolet?style=flat-square" alt=".NET Version">
   </a>
 </p>
 
