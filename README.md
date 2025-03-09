@@ -10,7 +10,7 @@ FF
     <img src="https://img.shields.io/github/v/release/SVRECCO/FF?include_prereleases&style=flat-square" alt="GitHub release">
   </a>
   <a href="https://github.com/SVRECCO/FF/blob/main/LICENSE.md">
-    <img src="https://img.shields.io/github/license/SVRECCO/FF?style=flat-square" alt="License">
+    <img src="https://img.shields.io/github/license/SVRECCO/FF?style=flat-square&label=license&color=blue" alt="MIT License">
   </a>
   <a href="https://github.com/SVRECCO/FF/stargazers">
     <img src="https://img.shields.io/github/stars/SVRECCO/FF?style=flat-square" alt="Stars">
