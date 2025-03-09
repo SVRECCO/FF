@@ -49,7 +49,7 @@ FF is a visually appealing, feature-rich system information tool for Windows, in
 
 ### Prerequisites
 
-- .NET 6.0 SDK or newer
+- .NET 9.0 SDK or newer
 - Windows 10/11
 
 ### Option 1: Download Release
@@ -69,7 +69,7 @@ cd FF
 dotnet build -c Release
 
 # Run the application
-.\bin\Release\net6.0\FF.exe
+.\bin\Release\net9.0\FF.exe
 ```
 
 ## Custom Image Setup
